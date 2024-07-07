@@ -1,6 +1,9 @@
 # vue-draggable
 
-This template should help get you started developing with Vue 3 in Vite.
+Kanban board example
+
+Using Sortable js and Sortablejs-vue3
+
 
 ## Recommended IDE Setup
 
